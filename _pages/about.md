@@ -2,16 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Graduate Researcher at the Chinese University of Hong Kong</a>. Multimedia Laboratory (MMLab)/Centre for Perceptual and Interactive Intelligence (CPII), Department of Information Engineering, CUHK. Advisor: <a href="https://www.ee.cuhk.edu.hk/~hsli/" target="_blank">Pr. Dr. Hongsheng Li</a>. 
+
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Ho Sin Hang Engineering Building 310, CUHK</p>
+    <p>Chung Chi Rd, Ma Liu Shui</p>
+    <p>Hong Kong, HKSAR</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
