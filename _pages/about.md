@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Researcher at the Chinese University of Hong Kong. Multimedia Laboratory (MMLab)/Centre for Perceptual and Interactive Intelligence (CPII), Department of Information Engineering, CUHK.
+subtitle: Graduate Researcher at Multimedia Laboratory (MMLab), Department of Information Engineering, the Chinese University of Hong Kong.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Ho Sin Hang Engineering Building 310, CUHK</p>
+    <p>SHB 310, CUHK</p>
     <p>Chung Chi Rd, Ma Liu Shui</p>
     <p>Hong Kong, HKSAR</p>
 
