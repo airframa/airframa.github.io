@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Graduate Researcher at the Chinese University of Hong Kong</a>. Multimedia Laboratory (MMLab)/Centre for Perceptual and Interactive Intelligence (CPII), Department of Information Engineering, CUHK. Advisor: <a href="https://www.ee.cuhk.edu.hk/~hsli/" target="_blank">Pr. Dr. Hongsheng Li</a>. 
-
+subtitle: Graduate Researcher at the Chinese University of Hong Kong. Multimedia Laboratory (MMLab)/Centre for Perceptual and Interactive Intelligence (CPII), Department of Information Engineering, CUHK. Advisor: Pr. Dr. Hongsheng Li.
 
 profile:
   align: right
@@ -17,6 +16,9 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+---
+
+[Pr. Dr. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/)
 ---
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
