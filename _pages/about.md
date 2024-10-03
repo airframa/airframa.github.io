@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Researcher at the Chinese University of Hong Kong. Multimedia Laboratory (MMLab)/Centre for Perceptual and Interactive Intelligence (CPII), Department of Information Engineering, CUHK. Advisor: Pr. Dr. Hongsheng Li.
+subtitle: Graduate Researcher at the Chinese University of Hong Kong. Multimedia Laboratory (MMLab)/Centre for Perceptual and Interactive Intelligence (CPII), Department of Information Engineering, CUHK.
 
 profile:
   align: right
