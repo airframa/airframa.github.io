@@ -383,12 +383,12 @@ enable_publication_thumbnails: true
 # Jekyll Link Attributes
 # -----------------------------------------------------------------------------
 
-# These are the defaults
 external_links:
   enabled: true
   rel: external nofollow noopener
   target: _blank
   exclude:
+    - https://www.ee.cuhk.edu.hk/~hsli/
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
