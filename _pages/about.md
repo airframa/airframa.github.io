@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: *Graduate Researcher at Multimedia Laboratory (MMLab), Department of Information Engineering, The Chinese University of Hong Kong.*
+subtitle: <em>Graduate Researcher at Multimedia Laboratory (MMLab), Department of Information Engineering, The Chinese University of Hong Kong.</em>
+
 
 
 profile:
