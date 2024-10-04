@@ -20,8 +20,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a graduate researcher at the Multimedia Lab (MMLab) at CUHK, under the supervision of Prof. Hongsheng Li. My research focuses on advancing perception systems, 3D/4D vision, and scene reconstruction techniques, with particular emphasis on neural representations and rendering. Currently, I am investigating the application of Gaussian Splatting for efficient scene reconstruction, targeting dynamic environments like urban streetscapes.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold a Master's degree in Mechanical Engineering from ETH Zürich, where I specialized in control systems and computer vision, and a Bachelor's degree in the same field from Politecnico di Milano. Previously, I worked as a Computer Vision Engineer at Audi F1 Project (formerly Sauber), where I developed 3D aerodynamic data processing techniques for the development of the Formula 1 car, including point cloud registration, segmentation and rasterization, as well as algorithms for flow feature classification.
