@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate Researcher at Multimedia Laboratory (MMLab), Department of Information Engineering, the Chinese University of Hong Kong.
+subtitle: *Graduate Researcher at Multimedia Laboratory (MMLab), Department of Information Engineering, The Chinese University of Hong Kong.*
+
 
 profile:
   align: right
