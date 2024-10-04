@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined MMLab at CUHK 🚀!
+I joined the MMLab at CUHK 🚀!
