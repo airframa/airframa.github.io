@@ -9,10 +9,13 @@
 - title: Education
   type: time_table
   contents:
-    - title: Graduate Researcher (non-degree) at Multimedia Laboratory (MMLab)
+    - title: Graduate Researcher (non-degree) at [MMLab](https://mmlab.ie.cuhk.edu.hk/), CUHK
       institution: The Chinese University of Hong Kong, Hong Kong, HKSAR
       year: 2024
       description: "Research: 3D/4D vision, perception, reconstruction, and rendering"
+      description:
+        - "Research: 3D/4D vision, perception, reconstruction, and rendering"
+        - "Advisor: [Pr. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/)"
     - title: Mechanical Engineering MSc
       institution: ETH Zürich, Zurich, Switzerland
       year: 2023
@@ -25,14 +28,14 @@
   type: time_table
   contents:
     - title: Computer Vision Graduate Engineer
-      institution: Audi F1 Project (FIA Formula 1 Team), Zürich, Switzerland
+      institution: [Audi F1 Project](https://www.audi-mediacenter.com/en/formula-1-14842) (FIA Formula 1 Team), Zürich, Switzerland
       year: 2023
     - title: Software Engineering Intern
-      institution: Beyond Gravity AG, Zürich, Switzerland
+      institution: [Beyond Gravity AG](https://www.beyondgravity.com/en), Zürich, Switzerland
       year: 2022
     - title: Robotics Intern
-      institution: Pick8ship Technology AG, Zürich, Switzerland
+      institution: [Pick8ship Technology AG](https://www.pick8ship.com/en/home-2/), Zürich, Switzerland
       year: 2022
     - title: Research Assistant
-      institution: EMPA, Zürich, Switzerland
+      institution: [EMPA](https://www.empa.ch/), Zürich, Switzerland
       year: 2021
