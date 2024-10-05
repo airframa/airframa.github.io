@@ -12,7 +12,9 @@
     - title: "Graduate Researcher (non-degree) at [MMLab](https://mmlab.ie.cuhk.edu.hk/), CUHK"
       institution: "The Chinese University of Hong Kong, Hong Kong, HKSAR"
       year: 2024
-      description: "Research: 3D/4D vision, perception, reconstruction, and rendering"
+      description: 
+        - "Research: 3D/4D vision, perception, reconstruction, and rendering"
+        - "Advisor: [Pr. Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/)"
     - title: "Mechanical Engineering MSc"
       institution: "ETH Zürich, Zurich, Switzerland"
       year: 2023
