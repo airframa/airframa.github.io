@@ -37,16 +37,7 @@ layout: default
                 {% when 'nested_list' %}
                   {% include cv/nested_list.liquid %}
                 {% when 'time_table' %}
-                  {% for item in entry.contents %}
-                    <div class="time-table-entry">
-                      <p class="year">{{ item.year }}</p>
-                      <h4 class="title">{{ item.title }}</h4>
-                      <p class="institution">{{ item.institution }}</p>
-                      {% if item.description %}
-                        <p class="description">{{ item.description }}</p>
-                      {% endif %}
-                    </div>
-                  {% endfor %}
+                  {% include cv/time_table.liquid %}
                 {% when 'list_groups' %}
                   {% include cv/list_groups.liquid %}
                 {% else %}
