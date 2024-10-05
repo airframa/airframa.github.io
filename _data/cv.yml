@@ -13,14 +13,14 @@
       institution: The Chinese University of Hong Kong, Hong Kong, HKSAR
       year: 2024-2025
       description:
-        - title: Research
+        - title: Research:
           contents:
             - 3D/4D vision, perception, reconstruction and rendering
     - title: Mechanical Engineering MSc
       institution: ETH Zürich, Zurich, Switzerland
       year: 2023
       description:
-        - title: Concentration
+        - title: Concentrations:
           contents:
             - computer vision, control systems
     - title: Mechanical Engineering BSc
@@ -31,14 +31,14 @@
   type: time_table
   contents:
     - title: Computer Vision Graduate Engineer
-      company: Audi F1 Project (FIA Formula 1 Team), Zürich, Switzerland
+      institution: Audi F1 Project (FIA Formula 1 Team), Zürich, Switzerland
       year: 2023
     - title: Software Engineering Intern
-      company: Beyond Gravity AG, Zürich, Switzerland
+      institution: Beyond Gravity AG, Zürich, Switzerland
       year: 2022
     - title: Robotics Intern
-      company: Pick8ship Technology AG, Zürich, Switzerland
+      institution: Pick8ship Technology AG, Zürich, Switzerland
       year: 2022
     - title: Research Assistant
-      company: EMPA, Zürich, Switzerland
+      institution: EMPA, Zürich, Switzerland
       year: 2021
