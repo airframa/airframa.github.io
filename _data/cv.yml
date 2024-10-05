@@ -13,14 +13,14 @@
       institution: The Chinese University of Hong Kong, Hong Kong, HKSAR
       year: 2024-2025
       description:
-        - title: Research:
+        - title: "Research:"
           contents:
             - 3D/4D vision, perception, reconstruction and rendering
     - title: Mechanical Engineering MSc
       institution: ETH Zürich, Zurich, Switzerland
       year: 2023
       description:
-        - title: Concentrations:
+        - title: "Concentrations:"
           contents:
             - computer vision, control systems
     - title: Mechanical Engineering BSc
