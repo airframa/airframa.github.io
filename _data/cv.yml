@@ -9,24 +9,29 @@
 - title: Education
   type: time_table
   contents:
-    - title: 'Graduate Researcher (non-degree) at <a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank">MMLab</a>, CUHK'
+    - title: 'Graduate Researcher (non-degree), EECS 
       institution: 'The Chinese University of Hong Kong, Hong Kong, HKSAR'
       year: 2024
       description: 
+        - 'Lab: <a href="https://mmlab.ie.cuhk.edu.hk/" target="_blank">MMLab</a>, CUHK'
         - 'Research: 3D/4D vision, perception, reconstruction, and rendering'
         - 'Advisor: <a href="https://www.ee.cuhk.edu.hk/~hsli/" target="_blank">Pr. Hongsheng Li</a>' 
+        - 'Selected coursework: Introduction to Deep Learning, Image Processing and Computer Vision' 
     - title: 'Mechanical Engineering MSc'
       institution: 'ETH Zürich, Zurich, Switzerland'
       year: 2023
-      description: 'Concentrations: computer vision, control systems'
+      description: 
+        - 'Selected Coursework: Control Systems 1 & 2, Flow Visualization & Computer Vision'
+        - 'Master''s Thesis: <a href="https://drive.google.com/file/d/1dIG1DVh0691K3UIhITHBo53k4a7Wxbow/view?usp=sharing" target="_blank">Extracting Aerodynamic Insights from 3D Wind Tunnel Models: A Novel Computer Vision-Based Approach to Surface Flow Characterization</a>'
     - title: 'Mechanical Engineering BSc'
       institution: 'Politecnico di Milano, Milan, Italy'
       year: 2019
+      description: '2 x Full Tuition Exemption for students with particularly high merits, awarded by Politecnico di Milano (A.Y. 2017-2018, A.Y. 2018-2019)'
 
 - title: Experience
   type: time_table
   contents:
-    - title: 'Computer Vision Graduate Engineer'
+    - title: 'Computer Vision Engineer'
       institution: '<a href="https://www.audi-mediacenter.com/en/formula-1-14842" target="_blank">Audi F1 Project</a> (FIA Formula 1 Team), Zürich, Switzerland'
       year: 2023
     - title: 'Software Engineering Intern'
@@ -34,6 +39,9 @@
       year: 2022
     - title: 'Robotics Intern'
       institution: '<a href="https://www.pick8ship.com/en/home-2/" target="_blank">Pick8ship Technology AG</a>, Zürich, Switzerland'
+      year: 2022
+    - title: 'Software Engineer'
+      institution: '<a href="https://www.jenzermotorsport.ch/en/" target="_blank">Jenzer Motorsport</a>, Bern, Switzerland'
       year: 2022
     - title: 'Research Assistant'
       institution: '<a href="https://www.empa.ch/" target="_blank">EMPA</a>, Zürich, Switzerland'
