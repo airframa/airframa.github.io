@@ -13,7 +13,7 @@ profile:
   more_info: >
     <p>SHB 310, CUHK</p>
     <p>Chung Chi Rd, Ma Liu Shui</p>
-    <p>Hong Kong, HKSAR</p>
+    <p>Hong Kong SAR, China</p>
 
 news: true # includes a list of news items
 latest_posts: false 
